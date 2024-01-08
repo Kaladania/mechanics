@@ -1,0 +1,46 @@
+Got feedback on wheither clear and invlaidate is a more prefered way to approach stopping timers. Learnt that there is not a major difference and its more about personal preference. Therefore to maintain code consistence, went with pausing the timer.
+- That being said can be useful if need to later access the timer as a variable
+	- such as using pickups that give a buff to reduce damage done by lava
+
+used the tutorial for today to refine the enemy attack code I made last week (i.e telling the enemies to block everything except the enemy projectile instead of overlapping everying except the projectile)
+
+
+Added Turrets and Cannons
+- Set turrents to have a radar below their mesh so that they know when the player is underneath them
+	- Same with gates, added an input to allow for a custom value to change the z-location of the radar so that turrets can be put at varying evlavations
+		- Felt there was a better way as the current lead to a lot of guessing and can lead to alot of frustration down the line for future people/me trying to alter the turret levels
+			- Recieved feedback which taught me about the construction script that allows you to create ways to dynamically edit variables in the startMap. Perfectly solved issue as now I could reposition the radar with ease.
+			- Realised there was a slight error in the feedback code given
+				- set relative location was augmenting the radar's starting point because it was being done so in relation to the static mesh
+				- changed to set world location so that I did not need to enter akward starting variables to fix the offset
+
+stretch goals
+- healing
+	- damage system (player)
+	- ensure if there is a clamp to prevent health from going ABOVE 100
+		- can be done as a branch to check
+		- can also be done as a CLAMP None
+			- put between current health
+
+Learning lesson from room building, In the advent of time, customisation to enemies and player messhes will be done after the game has been finished
+
+Expanded scene to have a back room as felt adding lava to the level made it too cramped (too many mechanics in a single area)
+
+Would allow level scalling as it means I can introduce new enemies in the new areas (turrets and cannons)
+- Even better as these are 'elavated enemies' that require reaching a certain altitude to destroy
+	- allows for platforming challenge to be added as player tries to kill these enemies while avoiding falling to lava and dying
+	- thinking about making falling into this specific pit a OHKO
+		- depends on if add a way to get out of the pit
+
+Created a lava room by duplicating the lava b and replacing the static mesh with a floor (instead of cube)
+- having an object with the exact room surface area makes the actor more scalable while requiring less proccessing to render multiple smaller squares
+
+Created lava flow by dupliacting lava and replacing static mesh with crystalsn (the edges give it a blocky but wavy texture). Removed ability to cast shadows to enable stacking ontop of other lava crystals and rocks
+
+
+Finished Room Expansion
+- Add 2 types of canons
+	- Rotating and static
+	- Rotating is the cross pipe
+	- Static is the trap?
+	- Add a rotate on the right hand side shooting the player.
