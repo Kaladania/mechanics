@@ -1,0 +1,13 @@
+MINOR:
+
+- Add skulls to the upper level
+
+Create health pickups
+- have the user regenerate health by destroying crystals
+	- make it so that the crystal takes a few hits to kill
+- possibly look at having the crystals regenergate
+- possible look at a challenge mode where the crystals DON'T regenerate (limited heals).
+
+BONUS:
+- Look at moving enemies
+- Look at pick-ups for damage buffs
