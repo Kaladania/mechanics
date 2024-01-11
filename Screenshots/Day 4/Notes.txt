@@ -1,0 +1,85 @@
+Use event triggered for rapid fire spray
+- triggers the event per click
+	- so for every frame the mouse is held down
+
+
+
+Can use Crystals as power source for charge canon
+- To add more variety and make the game stand out, crystals are enhancers
+	- when enable, the effect each gun in a different way
+		- base gun allows for a chain of bullets?
+		- automatic gun spawns 3 bullets instead of one
+		 - cannon gun can be charged for a massive bullet
+
+
+Made an automatic that rapid fired smaller bullets
+- for balancing reasons
+	- made the bullets smaller (with a smaller hit radius)
+	- made the bullets deal 1/4 of normal damage (needing more successful hits)
+	- also ensured that this weapon didn't make the game too easy by making it so that healing crystals can't be broken with the bullets
+- due to increased amount of spawning also reduced life span
+	- decreased memory usage
+
+
+Decided to revet the starter weapon back to a manual gun
+- provided more constrast in playstyle against the automatic
+
+
+Left the cannon with the automatic code but altered the timer to 1.5 seconds
+- time enforces a relod
+- also ensures that player cannot spam the cannont by repeatedly clicking (this would've happended with the manual code)
+
+
+Ensured that the weapon pickups cannot be destroyed (didn't think it fit with the game loop)
+Move the point light from the parent class to the child class
+
+Updated the cannon weapon to be able to hit two items before its destroyed
+- will still be destroyed if it hits a wall
+- Attempts were failing as the cannon either stopped when it collided with a single object, collide with multiple objects but bounce in a different direction, or not collide with the object at all (depending on the attempt)
+- recieved feedback stating that the cannon would need to use an overlay system instead of hit to prevent the object from stopping.
+- set the canon to overlay everything apart from the worldstatic (level objects)
+	- told the blueprint to revert collission back to block (ignore player and enemy projectile) to return to the default project tile setting
+- had problems with the enemy radars triggering the collision (due to object type being worldstatic)
+	- set the radars to 'detection' as they are only used to detect the player's presence
+
+- realised some issues with previous creations
+	- the enemy radars need to be changed to 'detection' because they are not real world objects (purely only to 'detect' the player)
+	- crystals are 'destrutable' objects so they are given the 'destructable' type
+	- the crystals need a parent class because they all share the same values apart from their appearence
+
+Also gave lava a parent class for the same reason
+
+
+Ran into issues where destroying a crystal would not allow the player to heal, but running into one will
+- Realised that this was because I had left the 'on hit' event code in
+	- altered the event to only run if the projectile hits the crystal
+
+
+Plan to ask for help in next lesson to provide ability to use space bar to toggle between guns
+
+
+Lesson taught about rotating movement component which is a much better way to rotate fans (blueprint used event tick) so oped to go with that
+- slight downside on note being able to put in a custom speed for each fan
+	- desided it wasn't much of an issue as could always create a new class that accepted the custom movement (For now it was not needed)
+
+unreal random float in range
+
+
+Next to do:
+- Toggle between weapons
+- More of an ambush during the main level
+- Boss Rush
+- Possibly look at creating a mechanic where the crystals can either be used for healing or for damage increase
+- Look at making the lower floor tech rougher (currently really metatlic)
+- Look into adding more animations to help the world feel more alive
+	- flashing lights at the damn and mine entrance
+	- flowing lava out of the pipes
+- Have the crystals regernate somehow
+	- possibly have them rise out of the ground
+	
+	- OR have enemies drop crystals
+
+- Look into having enemies rotate to follow your movements
+	- to save proccessing power, take a BOTW approach and have a 'presence' radar that's extreemly vertical. Responsible for alerting the sentinels' attention
+	- Create an animation state to show the new alert
+		- possibly their materials turn from a dark grey to the intimidating orange as they glow furiosly
