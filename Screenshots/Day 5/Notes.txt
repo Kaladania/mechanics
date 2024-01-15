@@ -1,0 +1,15 @@
+blocking volume
+- invisible wall
+- can help with guiding ai/stops the player from driving out
+
+thinking about creating a new 'homing gun'
+- firing the gun creates a projectile point (that doesn't disapear on inpact) that all enemies movetowards to until it disapeears
+
+Added a the BOTW inspired enemy detection mechanic by having a 'low-alert' radar and a 'high-alert' radar
+
+Updated the sentinel enemy by reparenting it to the enemy parent
+- Also added QoL features such as settings to change the material, causing enemy to glow when it senses the player and stop glowing when player leaves radar area
+	- moved the bobing code to this check to help give the impression that the player's proximity is 'activating' the sentinel
+	- having the 'off' mesh be a grey colour also helped sentinel blend in with enviroemtn
+		- provided less visual glowing clutter/over-stimulation
+		- provided oppertunity /inspiration for 'sneak attack' enemies that hide in the shadows and the player is only made aware when they activate the enemy and its starts to glow
