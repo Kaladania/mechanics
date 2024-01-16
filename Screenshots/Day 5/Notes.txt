@@ -13,3 +13,34 @@ Updated the sentinel enemy by reparenting it to the enemy parent
 	- having the 'off' mesh be a grey colour also helped sentinel blend in with enviroemtn
 		- provided less visual glowing clutter/over-stimulation
 		- provided oppertunity /inspiration for 'sneak attack' enemies that hide in the shadows and the player is only made aware when they activate the enemy and its starts to glow
+
+
+Added agressive patrolling enemies
+- combined the random movement to animate the enemy and have them 'on lookout'
+- combined the chasing movement to have them pursue the player if caught
+	- adds some contrast to game player by introducing sneak strats?
+
+patrol guard
+- surveys the area
+- pursues the player until they get out of range
+- goes back to pursuing the area
+- fires rapidly to pressure the player
+
+lookout
+- doesn't attack
+- surveys the area 
+	- decided to also allow some to be offline and hidden in the shadows
+		- acts as an enjoyable game play shock as the player is caught off-guard once the sirens go off
+- turns on a siren if the player gets to close and pursues relentlessly
+	- only way to get ride of the siren is to kill the lookout
+- active siren alerts all nearby enemies
+	- causes their 'low-priority' radars to turn into 'high-priority' radars
+		- makes it harder for the player to sneak past enemies/more likely to get overwhelmed/ambushed.
+
+
+
+Next steps
+- parent player projectiles and enemy projectiles to make references to them easier
+	- i.e using a parent to tell crystals which projectiles it should/should not accept
+- add blueprints to turn low-priority radars into high-priority radars
+- create a 'decoy' gun that focuses all nearby enemy attention to the player can escape
