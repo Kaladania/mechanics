@@ -1,0 +1,31 @@
+- Different enemies are affected by the siren in different ways
+
+- Grunt level enemies like Targets and Turrets fire constantly
+- Patrol enemies like the Patrol_Guard (and the rotating cannon) will start shooting homing attacks at the player
+- Cavalry enemies like the Cannon will start shooting timed beams instead of projectiles
+
+to prevent multiple if state check, opted to go with switches using an enum state (easier to proccess)
+- 0: Default state
+- 1: High Alert
+- 2: Disabled
+
+Used states to allow enemies to determine what attack behaviour to do depending on the state they are activated in
+
+- Added functionality to the siren so that all affected enemys are disabled allowing player brief moment of rest
+	- plan to include an 'EMT' like explosusion to add to this
+
+
+can set projectiles as homing projectiles using the 'set homing target' node for projectile movement
+	- also tick the 'is homing projectile' setting in details for projectile movement.
+
+
+Enemy/Player Jump
+- Use Jump node
+	- basically makes the element jump (prebuilt event)
+		- to change the details of the jump - go to character movement
+			- can be used for a leapfrog enemy that explodes if it hits the player
+
+
+Add rnadom pauses
+- random float node
+	- can be used to make things happen incosistently (think of it like using a random number for probability)
