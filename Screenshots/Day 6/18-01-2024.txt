@@ -14,6 +14,8 @@ Used states to allow enemies to determine what attack behaviour to do depending 
 - Added functionality to the siren so that all affected enemys are disabled allowing player brief moment of rest
 	- plan to include an 'EMT' like explosusion to add to this
 
+Replaced the equals logic with a IsA node since it effectively did the same thing but required less blueprints
+- easier to read and quicker to compute
 
 can set projectiles as homing projectiles using the 'set homing target' node for projectile movement
 	- also tick the 'is homing projectile' setting in details for projectile movement.
