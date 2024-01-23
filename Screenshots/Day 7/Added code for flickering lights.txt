@@ -1,0 +1,11 @@
+Added code for flickering lights
+
+added beggining code for submarine
+	- swimming code and lookout telescope
+	- telescope tracks player is they enter low alert
+
+
+Mode code to raise gun to high alert so that only fires when player crosses radar
+- gun sinks back into mesh after player leaves radar
+
+Also code 'shark missle' that leads out of the lava to collide with the player.
