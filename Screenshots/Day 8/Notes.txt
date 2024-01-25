@@ -1,0 +1,22 @@
+was going to use event tick to check when the proectile experies but did not want to because event tick is last resort
+- used event destroyed instead
+- wasn't happy with the effect as it made it seem like the bullet was colliding 
+
+Added sparks to all projectiles
+- added blue sparks for player projectile contact
+- added orange sparks for enemy contact
+
+Set random sparks to go off to help with enemy pre-explosion animation
+
+Retooled cannon to destroy an overlayed actor (helps with powerful feel)
+- plan to further retool in the future to not allow overlays on enemy it can't one shot (such as bosses)
+
+To fit with the low-poly theme made the flowing lava more block like
+
+For enviromental theme added embers 
+- set up a way that the enmbers begin to spawn when the player heads near the lava in the first room (room is not full of embers)
+- entering the lava room introduces you to a room of embers
+
+Added damage to the flowing lava
+- created an empty blueprint and gave it a collission box
+- for optimization, set it to ignore everything except the player
