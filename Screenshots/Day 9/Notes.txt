@@ -1,0 +1,9 @@
+Got feedback on how to create dynamic niagra systems
+- expose the needed variables to allow them to be used in the editor
+- Got further feedback on how to use this exposed vairable in a blueprint
+	- will allow me to create collission triggers that also scale dynamically
+
+Used the same system to create dynamic systems for the embers and slim/large lava flows
+
+
+https://www.youtube.com/watch?v=SYJxkNQMxdY
