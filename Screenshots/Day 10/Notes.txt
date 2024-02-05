@@ -1,0 +1,13 @@
+Was unable to get an array of actors without creating world instances
+- decided to leave the pickups in the world the place them behind a penatrable display (so they exist for the blueprint but can't be accessed by the player)
+
+Tried to find ways to add images of weapons to the ui
+- Couldnt find a way to convert static mesh to textures
+- Lecturer reccomended using a camera to generate a live texture in a hiden area on the level
+	- didn't really want to do this since it mean that weapon images would not have transparency
+	- also found tutorials like this that showed how to use camera: https://www.youtube.com/watch?v=mSDgMmaddJw
+	- how felt it was too overkill a method just to create a png. Plus camera quality was not good
+
+
+Attempted to create a hud element that displays the current active weapon
+- used this tutorial: https://www.youtube.com/watch?v=cCJ2RuoTChI
