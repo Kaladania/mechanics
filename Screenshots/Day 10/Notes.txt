@@ -11,3 +11,50 @@ Tried to find ways to add images of weapons to the ui
 
 Attempted to create a hud element that displays the current active weapon
 - used this tutorial: https://www.youtube.com/watch?v=cCJ2RuoTChI
+- The UI was buggy where it would highlight the wrong weapon and skip the grenade weapon
+	- considering the bug was using the same indexs as the player weapon array - and the wrong weapons were always one index over, suspected that the fault may come from the array population
+	- was correct as it turns out I had left the test element in, causing out of range errors as everything got pushed forward by 1 index
+
+
+Attempted to further expand the hud by adding an energy counter
+- want to expand the energy system by incorporating a reasource system
+	- players must havest crystals to collect energy to be used on the ship
+	- this energy can either be used on the ships defenses or weapons
+		- using it on defenses heals the player
+		- using it on ships temporarly upgrades weapons by allowing the alt attacks previously conceptualised (such as turning the starter weapon from a standard gun to one that shots a row of 3-5 bullets)
+	- would add more strategy to the game while also further encouraging the players to experiment with weapons
+- did this by studying how the player's health UI was created using Event Dispatchers and creating a similar systems
+	- intend to get feedback on my UI methods I feel I could improve their efficency in certain areas (such finding a way to reduce the amount of flip flop nodes im using to toggle the highlight).
+
+
+Considering crystals were now a fully valuabel reasource, incorporated a respawn mechanic
+- instead of being destroyed, the crystal's scale is set to 0 (making it disappear)
+- a timeline is then used to gradually increase the scale, causing the crystal to slowly grow in size before being fully regenerated
+- considering how blocky the game was, I felt that the smooth transition was a bit out of place
+	- tried to add some noise by using a randomly generated float to make the growth non-uniform
+	- lead to some stutters if the range was set too high
+	- the random growth noise was successful, but I felt it ended up looking unfinished/unrenders and opted for the original smooth growth
+- however further testing made me realise that the crystals were not growing back to original size
+	- realised that this was because I had setup the blueprints under the assumption that all the crystals were the same time
+		- fixed this by storing a copy of the crystal's original scale at begin play and multiplying the regeneration growth by the old scale (to tailor the growth to each crystals needs)
+
+Realised that since the crystals could now regernate, this might cause players to camp near crystal spots to farm energy
+- attempted to fix this by extending the regernation duration to test player patience
+- also created a check that quaters the amount of energy the player is able to recieve if they attack a crystal before it has fully regrown
+	- realised that I would need to add some affordance to communicate to the player that the crystal is ready to be re-harvested.
+	- plan to do this by dulling the crystal's colour while its growing
+
+Realised there had been a bug in my code where crystals were actually registering 2 inputs instead of one
+- damage was being dealt to the crystal so it was triggering an 'on any damage' hit aswell as a collission hit
+- this was causing the crystals to heal the player twice (and now increase the energy reserves twice)
+- fixed this by removing the damage trigger
+- reemphasised the importances of testing the game logic via print statements and watching breakpoint variables
+
+
+Since the energy charge will become a reasource system, plan to turn the healthbar into segments that will give the player a better idea of how much energy each action uses (weapon upgrade and ship repair) along with how much enegry/actions they have left
+	- since I would have partitions, the division was changed to a whole and remainder division so that I could do interger division (similar to systems used in games like Overwatch or Hollow Knight that feature the use of 'alts' or special moves)
+		- in hindsight, it would have been better to have both the health and energy stats be intergers since forthey only use whole numbers
+
+
+further testing made me realise that the grenade needed the any damage event since that is how it registered hits
+- need to do further invesitgation on why the damage causer was always returning 'none' leading it to be almost unusable
