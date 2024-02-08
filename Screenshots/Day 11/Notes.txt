@@ -1,0 +1,52 @@
+- Less cluttered
+- Design level to make player regulary fall into lava
+	- pushing enemies
+	- moving ramps
+
+- Think about developement more spacially
+	- Have lots of oppertunity for death
+
+- Lava room may not be best for bullet hell
+	- focus more on enviromental damage
+	- get enemies to interact with the ladder
+
+
+Becareful of over-designing
+- TEST
+	- Get feedback on what people like
+	- what they don't like
+	- what would they cut out
+	- How they wan't to die and what deaths do they find intresting
+	- Ask the player's how they feel about having alts
+		- would they feel like its too many weapons
+	
+
+
+Prefer polish over material
+
+
+For the partion
+- For the sake of time just use an image like you would sprites
+- Mentioned that this a very restricted way as it means its harder to adapt the partition amount to respond with internal and external testing (as you would have to contionusly manually alter the psd file)
+- Mention that you've seen it be done using materials but for the sake of time, you decided to not go with this method as it would take too long to full understand the nodes and techniques being used
+
+
+Optimisaiton would have looked at creating global functions for flashing lights and alternating moving objects. Would mean that things like the elevator light would not have to have its lights reprogrammed with a different material.
+	- Also means things like the default enemy, gates and moving platforms would not need a repeat of the same blueprint logic
+
+
+
+Got feedback on making the lava more of a level mechanic
+- plan to go back to my idea of creating lava enemies
+	- instead will develope an enemy that attempts to push you in the lava
+- felt that the elevator would be a great place to have this focus as the player must try and not get pushed off by lava enemies
+
+- had some problems getting both elevator doors to open in the opposite direction
+	- realised that this was because you can't run two timelines simulatneous
+	- instead added an extra track specifically for the right gate
+
+Set it so that the gates don't open while the elevator is in motion
+
+Changed the exposure to a range of 0.5 - 1 to prevent the world from agressively dimming during the lava stage
+- will have to make so changes to the leve design to compensate for the brighter enviroment
+
