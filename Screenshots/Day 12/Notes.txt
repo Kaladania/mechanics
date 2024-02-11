@@ -1,0 +1,27 @@
+Added Alternative system
+
+Added the ability to heal pressing right click by expending energy reserves
+	- set an empty function that can be overriden by child weapons to add custom right click runctionality if shift was pressed during the action
+	- Alt actions would be similar to ones proposed before (e.g. having the starter weapon shot 3 bullets instead of 3
+
+For other weapons:
+- Automatic (automatic spinning top)?
+- Or, each bullet targets a nearby enemy
+- Cannon weapon - Melting lazer beam
+- Grenade - splinter weapon / EMT
+
+Though about removing the healing fx if the player is act max health. During playtest it made the action feel empty/broken. Thought back to personal game experience and realied that games would still play their healing action if the player was already at full health. It just that nothing would happen. Thus, would be justified to keep in the heal fx despite the hp not increasing. For a bit more difficulty, allowed energy to still be spent on the action even if the player was fully healed
+
+
+Added a bool to specify if the alt needed to use event trigger or event started
+- placed the right click blueprints in its own function then used the bool to check on both trigger and start which of the events the alt weapon wanted to use
+	- removed the need to duplicate the code for both triggers
+
+
+
+Thought about having each automatic bullet spawned target an enemy
+- Caused major performance issues due to the amount of calculations needing to be done thanks to the numerous amount of bullets being spawned on screen
+- Therefore decided against it
+- Decided to instead go with a rotating field of bullets
+
+Made actors also automatically get destroyed on grenade impact to reinforce the powerful feel of grenade
