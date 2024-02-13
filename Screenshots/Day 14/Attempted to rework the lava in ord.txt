@@ -1,0 +1,26 @@
+Attempted to rework the lava in order to make it more digestable
+- reduced the brightness (since the bright lava lead to me creating extremmly bright emmissives so that enemies and particles could be seen in the lava, compounding the problem)
+- tried to add foam around the edges to allow visible seperation
+	- struggled to get the effect to work. Tried various tutorials and node combinations
+		- will ask for help next session
+
+
+Took the advice of David and created a lava enemy
+- Enspired by Porabooms from Mario and Keese's from BOTW/TOTK
+	- Jumps in and out of lava
+	- Like Patrol Enemy doesn't have a low alert radar
+		- instead, on player sighting the Fireball will launch itself into the player
+
+
+Initially had a problem with the fireball jumping in and out of lava
+- it was too big to be properly hidden in the lava
+- couldn't be placed underneath as its collission with the world objects meant that it would continously spawn ontop of the hidden floor (making it visible)
+- removing world collission and setting the starting point for the animation to the origin point in the editor worked because it snapped the fireball back into position while it was in freefall
+	- lead to inconsistent results as if the fireball fell too far it would despawn
+	- decided to fix this by placing a blocking volume underneath the fireball 
+	- would give the enemy something to stand on and stop its freefall
+
+
+Attempted to turn the enemy into a homing projectile on player sighting
+- Added boolean that prevents the timeline from playing the reverse animation if the player has been spotted (leaving enemy in the air)
+- Took inspiration from Deej's helicopter to figure out hoving motion by disabling gravity and changing character movement to flying
