@@ -1,0 +1,5 @@
+As response to feedback
+
+- Fixed game breaking grenade bug by changing blast radius collission to ignore everything except the player, enemies and crystals (instead of doing manual checks)
+- Increased crystal consumption to reduce increase the difficulty of managing the reasource
+- Increased the auto projectile size and damage dealt in order to make it easier to use
