@@ -1,0 +1,383 @@
+[
+  {
+    "windows": {
+      "684": {
+        "344": {
+          "id": 344,
+          "index": 5,
+          "windowId": 684,
+          "highlighted": false,
+          "active": false,
+          "attention": false,
+          "pinned": false,
+          "status": "complete",
+          "hidden": false,
+          "discarded": false,
+          "incognito": false,
+          "width": 1536,
+          "height": 711,
+          "lastAccessed": 1708044907974,
+          "audible": false,
+          "autoDiscardable": true,
+          "mutedInfo": {
+            "muted": false
+          },
+          "isArticle": false,
+          "isInReaderMode": false,
+          "sharingState": {
+            "camera": false,
+            "microphone": false
+          },
+          "successorTabId": -1,
+          "cookieStoreId": "firefox-default",
+          "url": "https://freesound.org/people/colorsCrimsonTears/sounds/609026/",
+          "title": "Freesound - Presence - Sci-fi by colorsCrimsonTears",
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAABL1BMVEX9W2X8WmQAAAD9WmT8WWP8V2L9XWf+3uD9Xmj////9d3/9cnv+4eP9kZj9e4P9rLD+0tT+5ef+19r+0NP9W2X+/f3+vcH9W2X+7/D9ZW7+9vf+Ymv9W2X9YGn+u7/9Ymv9W2X+ub39iZD9o6j+8/T9XGX/X3/9a3X9fYX/bW39qK39ZnD+tbj+9/j+x8v+s7f+zM/+wMP9XGX++fn+7O39j5b9W2b+YGn9XGb/XGf9W2X+wsb+2tz+6uv9hIv+ys39W2X+4+X/XGb9W2X+Y279cHn9pqv9h4/+3d/9W2X+t7v9W2X9gIf9i5L/Xmb9XGX/W2f//v79fIT+4uT9W2b9W2X8VWD9rrL/f3/9lZz+1dj9jZT9mqD+cXH9W2X9anT9maD9W2X+sbX9naP9W2W8ZjReAAAAZXRSTlP//wD///////////////////////v//+////8a/v///+n/////4wj//wf///////////H///+vHZBHpf//////rf9Olhf/////lP+a//9KtFD///+ouP//Bv////8J5P//7f//6IBEYf0AAAG/SURBVHicfZNnd4IwFIZvICGggIJ1VMW6at2jju6e7r2X3Xb9/9/QoEcFFN8POSd5n5Pc3AEcxxXW1hfnwKG5z4erHDMZcLAadroDhU9jJnDQmW6buo5x8Lzq7gPsF2DtexYQ3oN1655HyEHswKLVh3nRQfyB9X9oodomdiBu2+HDiM8EeN4lJHJXSWAe2CsuBEkHqwJGxs82nmYjRN6l13lVPIx0HZEMfGOB+Conx5qabzaQ/Q0eY4yQ7wxCJ7RYOVYkv4jY0QjiBa/HKxo6LdUbtBpUik1aEtmRMCRQz69pKU9ry6Mf0Zb0G9JlNaVp/t4waeYN6ftENnJJ33Tpthso09R92nKDGQOpNeXdoqzWg60NqujRGrHE0E9iPhvyV+lSIxLY3FXr2bwzE0gstze2dKMmn0XlUibhLBojBFSW6sKdkmGfFI0JnxEkIyUQfnqRQmiiLfoi7VtWS3IZLE5LtAlcRL8YsB1VbMC4YfBS4AID9gY8lh/ELS3HGo6lhhfMdaQkPIw3fL+Gg3WoDly5jNVAyzdQOJ0FnOeAi127+48r5vDG9pdd7j9f6U83l9vbSdr7nyme7Nx8MPMfPPkroF6+KPgAAAAASUVORK5CYII="
+        },
+        "345": {
+          "id": 345,
+          "index": 10,
+          "windowId": 684,
+          "highlighted": true,
+          "active": true,
+          "attention": false,
+          "pinned": false,
+          "status": "complete",
+          "hidden": false,
+          "discarded": false,
+          "incognito": false,
+          "width": 1536,
+          "height": 711,
+          "lastAccessed": 1708045010293,
+          "audible": false,
+          "autoDiscardable": true,
+          "mutedInfo": {
+            "muted": false
+          },
+          "isArticle": false,
+          "isInReaderMode": false,
+          "sharingState": {
+            "camera": false,
+            "microphone": false
+          },
+          "successorTabId": -1,
+          "cookieStoreId": "firefox-default",
+          "url": "https://freesound.org/people/adharca/sounds/275521/",
+          "title": "Freesound - sci-fi swoosh.ogg by adharca",
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAABL1BMVEX9W2X8WmQAAAD9WmT8WWP8V2L9XWf+3uD9Xmj////9d3/9cnv+4eP9kZj9e4P9rLD+0tT+5ef+19r+0NP9W2X+/f3+vcH9W2X+7/D9ZW7+9vf+Ymv9W2X9YGn+u7/9Ymv9W2X/bW3+ub39iZD9o6j+8/T9XGX9a3X9fYX/X3/9qK39ZnD+tbj+9/j+x8v+s7f+zM/+wMP9XGX++fn+7O39j5b9W2b9XGb/XGf9XGX+YGn9W2X+wsb+2tz+6uv9hIv+ys39W2X+4+X/XGb9W2X+Y279cHn9pqv9h4/+3d/9W2X+t7v9W2X9gIf9i5L/Xmb/W2f//v79fIT+4uT9W2b8VWD9rrL/f3/9lZz+1dj9jZT9mqD+cXH9W2X9anT9maD9W2X9W2X+sbX9naP9W2VFH8I3AAAAZXRSTlP//wD///////////////////////v//+////8a/v///+kH/////+P//wj///////////H///+vkEe0HaX//////63/TpYX/////5T/mv//SlD///+o//8G/////wnk//+47f//6PEne7oAAAG/SURBVHicfZNnd4IwFIZvICGggIJ1VMU6W/eoo7s93Xu3dtv5/39Dgx4VUHw/5JzkfU5ycwdwHJda3VicA4fmPh6uC8xkwOFK2OkOFD6LmcBhZ7ptai3GwdOKuw9wkILV71lAeB82rHseIQexC4tWH+ZFB/EH1v+hhWqb2IG4bYePIj4T4HmXkMhdJYF5YK+4ECQTrAoYGT87eJqNEHmTXuZV8SjSdUQy8I0F4qucnmhqvtlA9jd4jDFCvnMIndJi5USR/CJiRyOIF7wer2jotFRv0GpQKTZpSWRHwpBAPb+mpT2tbY9+TFvSb0iX1bSm+XvDpJk3ZO4TucgVfdWl226gTNP3GcsNZgyk1pT3irJaD7Y2qaJHa8QSQz+J+VzIX6VLjUhga0+t5/LOTCCx3N7c1o2afB6VS9mEs2iMEFBZqgt3SpZ9UjQmfEaQrJRA+PFZCqGJtuiLtG9ZLclVsDgt0SZwGf1kwE5UsQHjhsFLgUsM2BvwWH4Qt7QcaziWGl4w15GS8DDe8P0aDtahOnDtMlYDLd9A6mwWcFEALrbm7n+tm8MbO1h2uf9ivT/dXGF/N2nvf6Z4snPzzsx/9W0rmkwCk0cAAAAASUVORK5CYII="
+        },
+        "354": {
+          "id": 354,
+          "index": 6,
+          "windowId": 684,
+          "highlighted": false,
+          "active": false,
+          "attention": false,
+          "pinned": false,
+          "status": "complete",
+          "hidden": false,
+          "discarded": false,
+          "incognito": false,
+          "width": 1536,
+          "height": 711,
+          "lastAccessed": 1708044596770,
+          "audible": false,
+          "autoDiscardable": true,
+          "mutedInfo": {
+            "muted": false
+          },
+          "isArticle": false,
+          "isInReaderMode": false,
+          "sharingState": {
+            "camera": false,
+            "microphone": false
+          },
+          "successorTabId": -1,
+          "cookieStoreId": "firefox-default",
+          "url": "https://pixabay.com/sound-effects/pulsar-44555/",
+          "title": "Pulsar | Royalty-free Music - Pixabay",
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAY1BMVEVMqEz///9Lp0tJp0lhsmHr9Ov9/v1Pqk/4/PjL5stRq1FsuGzn8+fc7tyDwoNVrVWJxYnz+vOs16zk8eS33Ldbr1yQyZCk06SXzZfS6tLE48S837x0u3RmtGbO5857v3vu9u5K4OOPAAABP0lEQVR4nN2Sy5KEIAxFCUFEVBQRH+2r//8rh4A6XVNdvZrZzN0kmIO5BNh/E+dnSJGSMyMhb7zXyJkWQuSx3lxZXJXd7Nw+CfRFlk20U/dZ1t3AUAFJ1ge2CrISGQ4KqhDT/sEC2NopgGplPcCjwc2BGs46bhXIZfX+2AHmRtQgp3wJmL7sjgBLMMhRzCBbalJ1Lw1YM8MzLdAo6HkemsjvBoyLCmZ9phnsGoULhu8G8WuRzpNYLLMA7M0bAFcLD9YUIBXI7h7SDcTuE44S6ukJ1lxTIIAhIvejAicOSzWitkQQUHVBfU3eaQxjuIkHnT3aIOCSHXXoUgR/WIZRxktJgCTZwrBWSReHgq2VaVYE1G2QKTWy1ZgyecsPYzb6xW0S48YU4qGD7x9zeK/fAOrn8glguRD+U/3lpf+JvgBgSw9813n/dQAAAABJRU5ErkJggg=="
+        },
+        "358": {
+          "id": 358,
+          "index": 7,
+          "windowId": 684,
+          "highlighted": false,
+          "active": false,
+          "attention": false,
+          "pinned": false,
+          "status": "complete",
+          "hidden": false,
+          "discarded": false,
+          "incognito": false,
+          "width": 1536,
+          "height": 711,
+          "lastAccessed": 1708044616297,
+          "audible": false,
+          "autoDiscardable": true,
+          "mutedInfo": {
+            "muted": false
+          },
+          "isArticle": false,
+          "isInReaderMode": false,
+          "sharingState": {
+            "camera": false,
+            "microphone": false
+          },
+          "successorTabId": -1,
+          "cookieStoreId": "firefox-default",
+          "url": "https://pixabay.com/sound-effects/morphed-metal-discharged-cinematic-trailer-sound-effects-124763/",
+          "title": "MORPHED METAL Discharged | Cinematic Trailer Sound Effects | Royalty-free Music - Pixabay",
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAY1BMVEVMqEz///9Lp0tJp0lhsmHr9Ov9/v1Pqk/4/PjL5stRq1FsuGzn8+fc7tyDwoNVrVWJxYnz+vOs16zk8eS33Ldbr1yQyZCk06SXzZfS6tLE48S837x0u3RmtGbO5857v3vu9u5K4OOPAAABP0lEQVR4nN2Sy5KEIAxFCUFEVBQRH+2r//8rh4A6XVNdvZrZzN0kmIO5BNh/E+dnSJGSMyMhb7zXyJkWQuSx3lxZXJXd7Nw+CfRFlk20U/dZ1t3AUAFJ1ge2CrISGQ4KqhDT/sEC2NopgGplPcCjwc2BGs46bhXIZfX+2AHmRtQgp3wJmL7sjgBLMMhRzCBbalJ1Lw1YM8MzLdAo6HkemsjvBoyLCmZ9phnsGoULhu8G8WuRzpNYLLMA7M0bAFcLD9YUIBXI7h7SDcTuE44S6ukJ1lxTIIAhIvejAicOSzWitkQQUHVBfU3eaQxjuIkHnT3aIOCSHXXoUgR/WIZRxktJgCTZwrBWSReHgq2VaVYE1G2QKTWy1ZgyecsPYzb6xW0S48YU4qGD7x9zeK/fAOrn8glguRD+U/3lpf+JvgBgSw9813n/dQAAAABJRU5ErkJggg=="
+        },
+        "360": {
+          "id": 360,
+          "index": 8,
+          "windowId": 684,
+          "highlighted": false,
+          "active": false,
+          "attention": false,
+          "pinned": false,
+          "status": "complete",
+          "hidden": false,
+          "discarded": false,
+          "incognito": false,
+          "width": 1536,
+          "height": 711,
+          "lastAccessed": 1708044628310,
+          "audible": false,
+          "autoDiscardable": true,
+          "mutedInfo": {
+            "muted": false
+          },
+          "isArticle": false,
+          "isInReaderMode": false,
+          "sharingState": {
+            "camera": false,
+            "microphone": false
+          },
+          "successorTabId": -1,
+          "cookieStoreId": "firefox-default",
+          "url": "https://pixabay.com/sound-effects/braam-classic-satellite-g-cinematic-trailer-sound-effects-123877/",
+          "title": "BRAAM CLASSIC Satellite (G#) | Cinematic Trailer Sound Effects | Royalty-free Music - Pixabay",
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAY1BMVEVMqEz///9Lp0tJp0lhsmHr9Ov9/v1Pqk/4/PjL5stRq1FsuGzn8+fc7tyDwoNVrVWJxYnz+vOs16zk8eS33Ldbr1yQyZCk06SXzZfS6tLE48S837x0u3RmtGbO5857v3vu9u5K4OOPAAABP0lEQVR4nN2Sy5KEIAxFCUFEVBQRH+2r//8rh4A6XVNdvZrZzN0kmIO5BNh/E+dnSJGSMyMhb7zXyJkWQuSx3lxZXJXd7Nw+CfRFlk20U/dZ1t3AUAFJ1ge2CrISGQ4KqhDT/sEC2NopgGplPcCjwc2BGs46bhXIZfX+2AHmRtQgp3wJmL7sjgBLMMhRzCBbalJ1Lw1YM8MzLdAo6HkemsjvBoyLCmZ9phnsGoULhu8G8WuRzpNYLLMA7M0bAFcLD9YUIBXI7h7SDcTuE44S6ukJ1lxTIIAhIvejAicOSzWitkQQUHVBfU3eaQxjuIkHnT3aIOCSHXXoUgR/WIZRxktJgCTZwrBWSReHgq2VaVYE1G2QKTWy1ZgyecsPYzb6xW0S48YU4qGD7x9zeK/fAOrn8glguRD+U/3lpf+JvgBgSw9813n/dQAAAABJRU5ErkJggg=="
+        },
+        "361": {
+          "id": 361,
+          "index": 9,
+          "windowId": 684,
+          "highlighted": false,
+          "active": false,
+          "attention": false,
+          "pinned": false,
+          "status": "complete",
+          "hidden": false,
+          "discarded": false,
+          "incognito": false,
+          "width": 1536,
+          "height": 711,
+          "lastAccessed": 1708044670346,
+          "audible": false,
+          "autoDiscardable": true,
+          "mutedInfo": {
+            "muted": false
+          },
+          "isArticle": false,
+          "isInReaderMode": false,
+          "sharingState": {
+            "camera": false,
+            "microphone": false
+          },
+          "successorTabId": -1,
+          "cookieStoreId": "firefox-default",
+          "url": "https://pixabay.com/sound-effects/cinematic-glitch-transition-sfx-27806/",
+          "title": "Cinematic Glitch Transition SFX | Royalty-free Music - Pixabay",
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAY1BMVEVMqEz///9Lp0tJp0lhsmHr9Ov9/v1Pqk/4/PjL5stRq1FsuGzn8+fc7tyDwoNVrVWJxYnz+vOs16zk8eS33Ldbr1yQyZCk06SXzZfS6tLE48S837x0u3RmtGbO5857v3vu9u5K4OOPAAABP0lEQVR4nN2Sy5KEIAxFCUFEVBQRH+2r//8rh4A6XVNdvZrZzN0kmIO5BNh/E+dnSJGSMyMhb7zXyJkWQuSx3lxZXJXd7Nw+CfRFlk20U/dZ1t3AUAFJ1ge2CrISGQ4KqhDT/sEC2NopgGplPcCjwc2BGs46bhXIZfX+2AHmRtQgp3wJmL7sjgBLMMhRzCBbalJ1Lw1YM8MzLdAo6HkemsjvBoyLCmZ9phnsGoULhu8G8WuRzpNYLLMA7M0bAFcLD9YUIBXI7h7SDcTuE44S6ukJ1lxTIIAhIvejAicOSzWitkQQUHVBfU3eaQxjuIkHnT3aIOCSHXXoUgR/WIZRxktJgCTZwrBWSReHgq2VaVYE1G2QKTWy1ZgyecsPYzb6xW0S48YU4qGD7x9zeK/fAOrn8glguRD+U/3lpf+JvgBgSw9813n/dQAAAABJRU5ErkJggg=="
+        },
+        "369": {
+          "id": 369,
+          "index": 0,
+          "windowId": 684,
+          "highlighted": false,
+          "active": false,
+          "attention": false,
+          "pinned": false,
+          "status": "complete",
+          "hidden": false,
+          "discarded": false,
+          "incognito": false,
+          "width": 1536,
+          "height": 711,
+          "lastAccessed": 1708044674155,
+          "audible": false,
+          "autoDiscardable": true,
+          "mutedInfo": {
+            "muted": false
+          },
+          "isArticle": false,
+          "isInReaderMode": false,
+          "sharingState": {
+            "camera": false,
+            "microphone": false
+          },
+          "successorTabId": -1,
+          "cookieStoreId": "firefox-default",
+          "url": "https://pixabay.com/sound-effects/deep-strange-whoosh-183845/",
+          "title": "DEEP STRANGE WHOOSH | Royalty-free Music - Pixabay",
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAY1BMVEVMqEz///9Lp0tJp0lhsmHr9Ov9/v1Pqk/4/PjL5stRq1FsuGzn8+fc7tyDwoNVrVWJxYnz+vOs16zk8eS33Ldbr1yQyZCk06SXzZfS6tLE48S837x0u3RmtGbO5857v3vu9u5K4OOPAAABP0lEQVR4nN2Sy5KEIAxFCUFEVBQRH+2r//8rh4A6XVNdvZrZzN0kmIO5BNh/E+dnSJGSMyMhb7zXyJkWQuSx3lxZXJXd7Nw+CfRFlk20U/dZ1t3AUAFJ1ge2CrISGQ4KqhDT/sEC2NopgGplPcCjwc2BGs46bhXIZfX+2AHmRtQgp3wJmL7sjgBLMMhRzCBbalJ1Lw1YM8MzLdAo6HkemsjvBoyLCmZ9phnsGoULhu8G8WuRzpNYLLMA7M0bAFcLD9YUIBXI7h7SDcTuE44S6ukJ1lxTIIAhIvejAicOSzWitkQQUHVBfU3eaQxjuIkHnT3aIOCSHXXoUgR/WIZRxktJgCTZwrBWSReHgq2VaVYE1G2QKTWy1ZgyecsPYzb6xW0S48YU4qGD7x9zeK/fAOrn8glguRD+U/3lpf+JvgBgSw9813n/dQAAAABJRU5ErkJggg=="
+        },
+        "372": {
+          "id": 372,
+          "index": 1,
+          "windowId": 684,
+          "highlighted": false,
+          "active": false,
+          "attention": false,
+          "pinned": false,
+          "status": "complete",
+          "hidden": false,
+          "discarded": false,
+          "incognito": false,
+          "width": 1536,
+          "height": 711,
+          "lastAccessed": 1708044676583,
+          "audible": false,
+          "autoDiscardable": true,
+          "mutedInfo": {
+            "muted": false
+          },
+          "isArticle": false,
+          "isInReaderMode": false,
+          "sharingState": {
+            "camera": false,
+            "microphone": false
+          },
+          "successorTabId": -1,
+          "cookieStoreId": "firefox-default",
+          "url": "https://pixabay.com/sound-effects/038777-cinematic-sound-effect-for-short-film-previews-61011/",
+          "title": "038777_CINEMATIC Sound Effect for Short Film Previews | Royalty-free Music - Pixabay",
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAY1BMVEVMqEz///9Lp0tJp0lhsmHr9Ov9/v1Pqk/4/PjL5stRq1FsuGzn8+fc7tyDwoNVrVWJxYnz+vOs16zk8eS33Ldbr1yQyZCk06SXzZfS6tLE48S837x0u3RmtGbO5857v3vu9u5K4OOPAAABP0lEQVR4nN2Sy5KEIAxFCUFEVBQRH+2r//8rh4A6XVNdvZrZzN0kmIO5BNh/E+dnSJGSMyMhb7zXyJkWQuSx3lxZXJXd7Nw+CfRFlk20U/dZ1t3AUAFJ1ge2CrISGQ4KqhDT/sEC2NopgGplPcCjwc2BGs46bhXIZfX+2AHmRtQgp3wJmL7sjgBLMMhRzCBbalJ1Lw1YM8MzLdAo6HkemsjvBoyLCmZ9phnsGoULhu8G8WuRzpNYLLMA7M0bAFcLD9YUIBXI7h7SDcTuE44S6ukJ1lxTIIAhIvejAicOSzWitkQQUHVBfU3eaQxjuIkHnT3aIOCSHXXoUgR/WIZRxktJgCTZwrBWSReHgq2VaVYE1G2QKTWy1ZgyecsPYzb6xW0S48YU4qGD7x9zeK/fAOrn8glguRD+U/3lpf+JvgBgSw9813n/dQAAAABJRU5ErkJggg=="
+        },
+        "378": {
+          "id": 378,
+          "index": 2,
+          "windowId": 684,
+          "highlighted": false,
+          "active": false,
+          "attention": false,
+          "pinned": false,
+          "status": "complete",
+          "hidden": false,
+          "discarded": false,
+          "incognito": false,
+          "width": 1536,
+          "height": 711,
+          "lastAccessed": 1708044679135,
+          "audible": false,
+          "autoDiscardable": true,
+          "mutedInfo": {
+            "muted": false
+          },
+          "isArticle": false,
+          "isInReaderMode": false,
+          "sharingState": {
+            "camera": false,
+            "microphone": false
+          },
+          "successorTabId": -1,
+          "cookieStoreId": "firefox-default",
+          "url": "https://pixabay.com/sound-effects/radio-illuminati-nuclear-alarm-124010/",
+          "title": "Radio Illuminati - Nuclear Alarm | Royalty-free Music - Pixabay",
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAY1BMVEVMqEz///9Lp0tJp0lhsmHr9Ov9/v1Pqk/4/PjL5stRq1FsuGzn8+fc7tyDwoNVrVWJxYnz+vOs16zk8eS33Ldbr1yQyZCk06SXzZfS6tLE48S837x0u3RmtGbO5857v3vu9u5K4OOPAAABP0lEQVR4nN2Sy5KEIAxFCUFEVBQRH+2r//8rh4A6XVNdvZrZzN0kmIO5BNh/E+dnSJGSMyMhb7zXyJkWQuSx3lxZXJXd7Nw+CfRFlk20U/dZ1t3AUAFJ1ge2CrISGQ4KqhDT/sEC2NopgGplPcCjwc2BGs46bhXIZfX+2AHmRtQgp3wJmL7sjgBLMMhRzCBbalJ1Lw1YM8MzLdAo6HkemsjvBoyLCmZ9phnsGoULhu8G8WuRzpNYLLMA7M0bAFcLD9YUIBXI7h7SDcTuE44S6ukJ1lxTIIAhIvejAicOSzWitkQQUHVBfU3eaQxjuIkHnT3aIOCSHXXoUgR/WIZRxktJgCTZwrBWSReHgq2VaVYE1G2QKTWy1ZgyecsPYzb6xW0S48YU4qGD7x9zeK/fAOrn8glguRD+U/3lpf+JvgBgSw9813n/dQAAAABJRU5ErkJggg=="
+        },
+        "379": {
+          "id": 379,
+          "index": 3,
+          "windowId": 684,
+          "highlighted": false,
+          "active": false,
+          "attention": false,
+          "pinned": false,
+          "status": "complete",
+          "hidden": false,
+          "discarded": false,
+          "incognito": false,
+          "width": 1536,
+          "height": 711,
+          "lastAccessed": 1708044706589,
+          "audible": false,
+          "autoDiscardable": true,
+          "mutedInfo": {
+            "muted": false
+          },
+          "isArticle": false,
+          "isInReaderMode": false,
+          "sharingState": {
+            "camera": false,
+            "microphone": false
+          },
+          "successorTabId": -1,
+          "cookieStoreId": "firefox-default",
+          "url": "https://pixabay.com/sound-effects/enemy-detected-103347/",
+          "title": "enemy detected | Royalty-free Music - Pixabay",
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAY1BMVEVMqEz///9Lp0tJp0lhsmHr9Ov9/v1Pqk/4/PjL5stRq1FsuGzn8+fc7tyDwoNVrVWJxYnz+vOs16zk8eS33Ldbr1yQyZCk06SXzZfS6tLE48S837x0u3RmtGbO5857v3vu9u5K4OOPAAABP0lEQVR4nN2Sy5KEIAxFCUFEVBQRH+2r//8rh4A6XVNdvZrZzN0kmIO5BNh/E+dnSJGSMyMhb7zXyJkWQuSx3lxZXJXd7Nw+CfRFlk20U/dZ1t3AUAFJ1ge2CrISGQ4KqhDT/sEC2NopgGplPcCjwc2BGs46bhXIZfX+2AHmRtQgp3wJmL7sjgBLMMhRzCBbalJ1Lw1YM8MzLdAo6HkemsjvBoyLCmZ9phnsGoULhu8G8WuRzpNYLLMA7M0bAFcLD9YUIBXI7h7SDcTuE44S6ukJ1lxTIIAhIvejAicOSzWitkQQUHVBfU3eaQxjuIkHnT3aIOCSHXXoUgR/WIZRxktJgCTZwrBWSReHgq2VaVYE1G2QKTWy1ZgyecsPYzb6xW0S48YU4qGD7x9zeK/fAOrn8glguRD+U/3lpf+JvgBgSw9813n/dQAAAABJRU5ErkJggg=="
+        },
+        "387": {
+          "id": 387,
+          "index": 4,
+          "windowId": 684,
+          "highlighted": false,
+          "active": false,
+          "attention": false,
+          "pinned": false,
+          "status": "complete",
+          "hidden": false,
+          "discarded": false,
+          "incognito": false,
+          "width": 1536,
+          "height": 711,
+          "lastAccessed": 1708044900173,
+          "audible": false,
+          "autoDiscardable": true,
+          "mutedInfo": {
+            "muted": false
+          },
+          "isArticle": false,
+          "isInReaderMode": false,
+          "sharingState": {
+            "camera": false,
+            "microphone": false
+          },
+          "successorTabId": -1,
+          "cookieStoreId": "firefox-default",
+          "url": "https://pixabay.com/sound-effects/epic-warning-hit-01-99239/",
+          "title": "Epic Warning Hit 01 | Royalty-free Music - Pixabay",
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAY1BMVEVMqEz///9Lp0tJp0lhsmHr9Ov9/v1Pqk/4/PjL5stRq1FsuGzn8+fc7tyDwoNVrVWJxYnz+vOs16zk8eS33Ldbr1yQyZCk06SXzZfS6tLE48S837x0u3RmtGbO5857v3vu9u5K4OOPAAABP0lEQVR4nN2Sy5KEIAxFCUFEVBQRH+2r//8rh4A6XVNdvZrZzN0kmIO5BNh/E+dnSJGSMyMhb7zXyJkWQuSx3lxZXJXd7Nw+CfRFlk20U/dZ1t3AUAFJ1ge2CrISGQ4KqhDT/sEC2NopgGplPcCjwc2BGs46bhXIZfX+2AHmRtQgp3wJmL7sjgBLMMhRzCBbalJ1Lw1YM8MzLdAo6HkemsjvBoyLCmZ9phnsGoULhu8G8WuRzpNYLLMA7M0bAFcLD9YUIBXI7h7SDcTuE44S6ukJ1lxTIIAhIvejAicOSzWitkQQUHVBfU3eaQxjuIkHnT3aIOCSHXXoUgR/WIZRxktJgCTZwrBWSReHgq2VaVYE1G2QKTWy1ZgyecsPYzb6xW0S48YU4qGD7x9zeK/fAOrn8glguRD+U/3lpf+JvgBgSw9813n/dQAAAABJRU5ErkJggg=="
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "684": {
+        "id": 684,
+        "focused": true,
+        "top": -7,
+        "left": -7,
+        "width": 1550,
+        "height": 838,
+        "incognito": false,
+        "type": "normal",
+        "state": "maximized",
+        "alwaysOnTop": false,
+        "title": "Freesound - sci-fi swoosh.ogg by adharca — Mozilla Firefox"
+      }
+    },
+    "tabsNumber": 11,
+    "name": "Warning SFX",
+    "date": 1708045010292,
+    "lastEditedTime": 1708045022441,
+    "tag": [],
+    "sessionStartTime": 1707952457433,
+    "id": "c8a99736-4dd5-4e85-8248-4fe4fa7eeeaa"
+  }
+]

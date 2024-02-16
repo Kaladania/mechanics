@@ -1,0 +1,415 @@
+[
+  {
+    "windows": {
+      "704": {
+        "343": {
+          "id": 343,
+          "index": 11,
+          "windowId": 704,
+          "highlighted": true,
+          "active": true,
+          "attention": false,
+          "pinned": false,
+          "status": "complete",
+          "hidden": false,
+          "discarded": false,
+          "incognito": false,
+          "width": 1536,
+          "height": 711,
+          "lastAccessed": 1708045036207,
+          "audible": false,
+          "autoDiscardable": true,
+          "mutedInfo": {
+            "muted": false
+          },
+          "isArticle": false,
+          "isInReaderMode": false,
+          "sharingState": {
+            "camera": false,
+            "microphone": false
+          },
+          "successorTabId": -1,
+          "cookieStoreId": "firefox-default",
+          "url": "https://freesound.org/people/GregorQuendel/sounds/674411/",
+          "title": "Freesound - Sci-Fi Soundscape / Drone / Pad - Harmonic - 008 - I - Designed Atmospheres by GregorQuendel",
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAABL1BMVEX9W2X8WmQAAAD9WmT8WWP8V2L9XWf+3uD9Xmj////9d3/9cnv+4eP9kZj9e4P9rLD+0tT+5ef+19r+0NP9W2X+/f3+vcH9W2X+7/D9ZW7+9vf+Ymv9W2X9YGn+u7/9Ymv9W2X+ub39iZD9o6j+8/T9XGX/X3/9a3X9fYX/bW39qK39ZnD+tbj+9/j+x8v+s7f+zM/+wMP9XGX++fn+7O39j5b9W2b+YGn9W2X/XGf9XGX9W2X+wsb+2tz+6uv9hIv+ys39W2X+4+X/XGb9W2X+Y279cHn9pqv9h4/+3d/9XGb+t7v9W2X9gIf9i5L/Xmb/W2f//v79fIT+4uT9W2b8VWD9rrL/f3/9lZz+1dj9jZT9mqD+cXH9W2X9anT9maD9W2X9W2X+sbX9naP9W2WlXJJDAAAAZXRSTlP//wD///////////////////////v//+////8a/v///+n/////4wj//wf///////////H///+vHZRHtKX//////63/TpYX/////5D/mv//SlD///+o//8G/////wnk//+47f//6LhdBXgAAAHASURBVHicfZNnd4IwFIZvICGggIJ1VMW6at2jju72dO/d2m3n//8NDXpUQPH9kHOS9znJzR3AcVxhbWNxDhya+3i4zjGTAYdnYac7UHg1ZgKHnem2qfUYB09n7j7AQQHWvmcB4X3YsO55hBzELixafZgXHcQfWP+HFqptYgfith0+ivhMgOddQiJ3lQTmgb3iQpB0sCpgZPzs4Gk2QuRNeplXxaNI1xHJwDcWiK9yeqKp+WYD2d/gMcYI+c4hdEqLlRNF8ouIHY0gXvB6vKKh01K9QatBpdikJZEdCUMC9fyalvK0tj36MW1JvyFdVlOa5u8Nk2bekL5PZCNX9FWXbruBMk3dpy03mDGQWlPeK8pqPdjapIoerRFLDP0k5rMhf5UuNSKBrT21ns07M4HEcntzWzdq8nlULmUSzqIxQkBlqS7cKRn2SdGY8BlBMlIC4cdnKYQm2qIv0r5ltSRXweK0RJvAZfSTATtRxQaMGwYvBS4xYG/AY/lB3NJyrOFYanjBXEdKwsN4w/drOFiH6sC1y1gNtHwDhdVZwEUOuNi6u/+1Yg5v7GDZ5f6Llf50c7n93aS9/5niyc7NOzP/AVifK5rqViFcAAAAAElFTkSuQmCC"
+        },
+        "362": {
+          "id": 362,
+          "index": 7,
+          "windowId": 704,
+          "highlighted": false,
+          "active": false,
+          "attention": false,
+          "pinned": false,
+          "status": "complete",
+          "hidden": false,
+          "discarded": false,
+          "incognito": false,
+          "width": 1536,
+          "height": 711,
+          "lastAccessed": 1708044652439,
+          "audible": false,
+          "autoDiscardable": true,
+          "mutedInfo": {
+            "muted": false
+          },
+          "isArticle": false,
+          "isInReaderMode": false,
+          "sharingState": {
+            "camera": false,
+            "microphone": false
+          },
+          "successorTabId": -1,
+          "cookieStoreId": "firefox-default",
+          "url": "https://pixabay.com/sound-effects/hit-low-gravity-absorber-cinematic-trailer-sound-effects-124761/",
+          "title": "HIT LOW Gravity Absorber | Cinematic Trailer Sound Effects | Royalty-free Music - Pixabay",
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAY1BMVEVMqEz///9Lp0tJp0lhsmHr9Ov9/v1Pqk/4/PjL5stRq1FsuGzn8+fc7tyDwoNVrVWJxYnz+vOs16zk8eS33Ldbr1yQyZCk06SXzZfS6tLE48S837x0u3RmtGbO5857v3vu9u5K4OOPAAABP0lEQVR4nN2Sy5KEIAxFCUFEVBQRH+2r//8rh4A6XVNdvZrZzN0kmIO5BNh/E+dnSJGSMyMhb7zXyJkWQuSx3lxZXJXd7Nw+CfRFlk20U/dZ1t3AUAFJ1ge2CrISGQ4KqhDT/sEC2NopgGplPcCjwc2BGs46bhXIZfX+2AHmRtQgp3wJmL7sjgBLMMhRzCBbalJ1Lw1YM8MzLdAo6HkemsjvBoyLCmZ9phnsGoULhu8G8WuRzpNYLLMA7M0bAFcLD9YUIBXI7h7SDcTuE44S6ukJ1lxTIIAhIvejAicOSzWitkQQUHVBfU3eaQxjuIkHnT3aIOCSHXXoUgR/WIZRxktJgCTZwrBWSReHgq2VaVYE1G2QKTWy1ZgyecsPYzb6xW0S48YU4qGD7x9zeK/fAOrn8glguRD+U/3lpf+JvgBgSw9813n/dQAAAABJRU5ErkJggg=="
+        },
+        "363": {
+          "id": 363,
+          "index": 8,
+          "windowId": 704,
+          "highlighted": false,
+          "active": false,
+          "attention": false,
+          "pinned": false,
+          "status": "complete",
+          "hidden": false,
+          "discarded": false,
+          "incognito": false,
+          "width": 1536,
+          "height": 711,
+          "lastAccessed": 1708044660559,
+          "audible": false,
+          "autoDiscardable": true,
+          "mutedInfo": {
+            "muted": false
+          },
+          "isArticle": false,
+          "isInReaderMode": false,
+          "sharingState": {
+            "camera": false,
+            "microphone": false
+          },
+          "successorTabId": -1,
+          "cookieStoreId": "firefox-default",
+          "url": "https://pixabay.com/sound-effects/pulse-red-hydra-120bpm-d-cinematic-trailer-sound-effects-125406/",
+          "title": "PULSE Red Hydra (120BPM) (D) | Cinematic Trailer Sound Effects | Royalty-free Music - Pixabay",
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAY1BMVEVMqEz///9Lp0tJp0lhsmHr9Ov9/v1Pqk/4/PjL5stRq1FsuGzn8+fc7tyDwoNVrVWJxYnz+vOs16zk8eS33Ldbr1yQyZCk06SXzZfS6tLE48S837x0u3RmtGbO5857v3vu9u5K4OOPAAABP0lEQVR4nN2Sy5KEIAxFCUFEVBQRH+2r//8rh4A6XVNdvZrZzN0kmIO5BNh/E+dnSJGSMyMhb7zXyJkWQuSx3lxZXJXd7Nw+CfRFlk20U/dZ1t3AUAFJ1ge2CrISGQ4KqhDT/sEC2NopgGplPcCjwc2BGs46bhXIZfX+2AHmRtQgp3wJmL7sjgBLMMhRzCBbalJ1Lw1YM8MzLdAo6HkemsjvBoyLCmZ9phnsGoULhu8G8WuRzpNYLLMA7M0bAFcLD9YUIBXI7h7SDcTuE44S6ukJ1lxTIIAhIvejAicOSzWitkQQUHVBfU3eaQxjuIkHnT3aIOCSHXXoUgR/WIZRxktJgCTZwrBWSReHgq2VaVYE1G2QKTWy1ZgyecsPYzb6xW0S48YU4qGD7x9zeK/fAOrn8glguRD+U/3lpf+JvgBgSw9813n/dQAAAABJRU5ErkJggg=="
+        },
+        "364": {
+          "id": 364,
+          "index": 9,
+          "windowId": 704,
+          "highlighted": false,
+          "active": false,
+          "attention": false,
+          "pinned": false,
+          "status": "complete",
+          "hidden": false,
+          "discarded": false,
+          "incognito": false,
+          "width": 1536,
+          "height": 711,
+          "lastAccessed": 1708044799426,
+          "audible": false,
+          "autoDiscardable": true,
+          "mutedInfo": {
+            "muted": false
+          },
+          "isArticle": false,
+          "isInReaderMode": false,
+          "sharingState": {
+            "camera": false,
+            "microphone": false
+          },
+          "successorTabId": -1,
+          "cookieStoreId": "firefox-default",
+          "url": "https://pixabay.com/sound-effects/space-line-27593/",
+          "title": "space_line | Royalty-free Music - Pixabay",
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAY1BMVEVMqEz///9Lp0tJp0lhsmHr9Ov9/v1Pqk/4/PjL5stRq1FsuGzn8+fc7tyDwoNVrVWJxYnz+vOs16zk8eS33Ldbr1yQyZCk06SXzZfS6tLE48S837x0u3RmtGbO5857v3vu9u5K4OOPAAABP0lEQVR4nN2Sy5KEIAxFCUFEVBQRH+2r//8rh4A6XVNdvZrZzN0kmIO5BNh/E+dnSJGSMyMhb7zXyJkWQuSx3lxZXJXd7Nw+CfRFlk20U/dZ1t3AUAFJ1ge2CrISGQ4KqhDT/sEC2NopgGplPcCjwc2BGs46bhXIZfX+2AHmRtQgp3wJmL7sjgBLMMhRzCBbalJ1Lw1YM8MzLdAo6HkemsjvBoyLCmZ9phnsGoULhu8G8WuRzpNYLLMA7M0bAFcLD9YUIBXI7h7SDcTuE44S6ukJ1lxTIIAhIvejAicOSzWitkQQUHVBfU3eaQxjuIkHnT3aIOCSHXXoUgR/WIZRxktJgCTZwrBWSReHgq2VaVYE1G2QKTWy1ZgyecsPYzb6xW0S48YU4qGD7x9zeK/fAOrn8glguRD+U/3lpf+JvgBgSw9813n/dQAAAABJRU5ErkJggg=="
+        },
+        "365": {
+          "id": 365,
+          "index": 10,
+          "windowId": 704,
+          "highlighted": false,
+          "active": false,
+          "attention": false,
+          "pinned": false,
+          "status": "complete",
+          "hidden": false,
+          "discarded": false,
+          "incognito": false,
+          "width": 1536,
+          "height": 711,
+          "lastAccessed": 1708044887951,
+          "audible": false,
+          "autoDiscardable": true,
+          "mutedInfo": {
+            "muted": false
+          },
+          "isArticle": false,
+          "isInReaderMode": false,
+          "sharingState": {
+            "camera": false,
+            "microphone": false
+          },
+          "successorTabId": -1,
+          "cookieStoreId": "firefox-default",
+          "url": "https://pixabay.com/sound-effects/danger-approaching-14740/",
+          "title": "Danger Approaching | Royalty-free Music - Pixabay",
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAY1BMVEVMqEz///9Lp0tJp0lhsmHr9Ov9/v1Pqk/4/PjL5stRq1FsuGzn8+fc7tyDwoNVrVWJxYnz+vOs16zk8eS33Ldbr1yQyZCk06SXzZfS6tLE48S837x0u3RmtGbO5857v3vu9u5K4OOPAAABP0lEQVR4nN2Sy5KEIAxFCUFEVBQRH+2r//8rh4A6XVNdvZrZzN0kmIO5BNh/E+dnSJGSMyMhb7zXyJkWQuSx3lxZXJXd7Nw+CfRFlk20U/dZ1t3AUAFJ1ge2CrISGQ4KqhDT/sEC2NopgGplPcCjwc2BGs46bhXIZfX+2AHmRtQgp3wJmL7sjgBLMMhRzCBbalJ1Lw1YM8MzLdAo6HkemsjvBoyLCmZ9phnsGoULhu8G8WuRzpNYLLMA7M0bAFcLD9YUIBXI7h7SDcTuE44S6ukJ1lxTIIAhIvejAicOSzWitkQQUHVBfU3eaQxjuIkHnT3aIOCSHXXoUgR/WIZRxktJgCTZwrBWSReHgq2VaVYE1G2QKTWy1ZgyecsPYzb6xW0S48YU4qGD7x9zeK/fAOrn8glguRD+U/3lpf+JvgBgSw9813n/dQAAAABJRU5ErkJggg=="
+        },
+        "373": {
+          "id": 373,
+          "index": 0,
+          "windowId": 704,
+          "highlighted": false,
+          "active": false,
+          "attention": false,
+          "pinned": false,
+          "status": "complete",
+          "hidden": false,
+          "discarded": false,
+          "incognito": false,
+          "width": 1536,
+          "height": 711,
+          "lastAccessed": 1708044334140,
+          "audible": false,
+          "autoDiscardable": true,
+          "mutedInfo": {
+            "muted": false
+          },
+          "isArticle": false,
+          "isInReaderMode": false,
+          "sharingState": {
+            "camera": false,
+            "microphone": false
+          },
+          "successorTabId": -1,
+          "cookieStoreId": "firefox-default",
+          "url": "https://pixabay.com/sound-effects/mystic-forest-ambient-23812/",
+          "title": "Mystic Forest Ambient | Royalty-free Music - Pixabay",
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAY1BMVEVMqEz///9Lp0tJp0lhsmHr9Ov9/v1Pqk/4/PjL5stRq1FsuGzn8+fc7tyDwoNVrVWJxYnz+vOs16zk8eS33Ldbr1yQyZCk06SXzZfS6tLE48S837x0u3RmtGbO5857v3vu9u5K4OOPAAABP0lEQVR4nN2Sy5KEIAxFCUFEVBQRH+2r//8rh4A6XVNdvZrZzN0kmIO5BNh/E+dnSJGSMyMhb7zXyJkWQuSx3lxZXJXd7Nw+CfRFlk20U/dZ1t3AUAFJ1ge2CrISGQ4KqhDT/sEC2NopgGplPcCjwc2BGs46bhXIZfX+2AHmRtQgp3wJmL7sjgBLMMhRzCBbalJ1Lw1YM8MzLdAo6HkemsjvBoyLCmZ9phnsGoULhu8G8WuRzpNYLLMA7M0bAFcLD9YUIBXI7h7SDcTuE44S6ukJ1lxTIIAhIvejAicOSzWitkQQUHVBfU3eaQxjuIkHnT3aIOCSHXXoUgR/WIZRxktJgCTZwrBWSReHgq2VaVYE1G2QKTWy1ZgyecsPYzb6xW0S48YU4qGD7x9zeK/fAOrn8glguRD+U/3lpf+JvgBgSw9813n/dQAAAABJRU5ErkJggg=="
+        },
+        "375": {
+          "id": 375,
+          "index": 1,
+          "windowId": 704,
+          "highlighted": false,
+          "active": false,
+          "attention": false,
+          "pinned": false,
+          "status": "complete",
+          "hidden": false,
+          "discarded": false,
+          "incognito": false,
+          "width": 1536,
+          "height": 711,
+          "lastAccessed": 1708044394436,
+          "audible": false,
+          "autoDiscardable": true,
+          "mutedInfo": {
+            "muted": false
+          },
+          "isArticle": true,
+          "isInReaderMode": false,
+          "sharingState": {
+            "camera": false,
+            "microphone": false
+          },
+          "successorTabId": -1,
+          "cookieStoreId": "firefox-default",
+          "url": "https://pixabay.com/sound-effects/spaceship-ambience-with-effects-21420/",
+          "title": "spaceship ambience with effects | Royalty-free Music - Pixabay",
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAY1BMVEVMqEz///9Lp0tJp0lhsmHr9Ov9/v1Pqk/4/PjL5stRq1FsuGzn8+fc7tyDwoNVrVWJxYnz+vOs16zk8eS33Ldbr1yQyZCk06SXzZfS6tLE48S837x0u3RmtGbO5857v3vu9u5K4OOPAAABP0lEQVR4nN2Sy5KEIAxFCUFEVBQRH+2r//8rh4A6XVNdvZrZzN0kmIO5BNh/E+dnSJGSMyMhb7zXyJkWQuSx3lxZXJXd7Nw+CfRFlk20U/dZ1t3AUAFJ1ge2CrISGQ4KqhDT/sEC2NopgGplPcCjwc2BGs46bhXIZfX+2AHmRtQgp3wJmL7sjgBLMMhRzCBbalJ1Lw1YM8MzLdAo6HkemsjvBoyLCmZ9phnsGoULhu8G8WuRzpNYLLMA7M0bAFcLD9YUIBXI7h7SDcTuE44S6ukJ1lxTIIAhIvejAicOSzWitkQQUHVBfU3eaQxjuIkHnT3aIOCSHXXoUgR/WIZRxktJgCTZwrBWSReHgq2VaVYE1G2QKTWy1ZgyecsPYzb6xW0S48YU4qGD7x9zeK/fAOrn8glguRD+U/3lpf+JvgBgSw9813n/dQAAAABJRU5ErkJggg=="
+        },
+        "376": {
+          "id": 376,
+          "index": 2,
+          "windowId": 704,
+          "highlighted": false,
+          "active": false,
+          "attention": false,
+          "pinned": false,
+          "status": "complete",
+          "hidden": false,
+          "discarded": false,
+          "incognito": false,
+          "width": 1536,
+          "height": 711,
+          "lastAccessed": 1708044429933,
+          "audible": false,
+          "autoDiscardable": true,
+          "mutedInfo": {
+            "muted": false
+          },
+          "isArticle": false,
+          "isInReaderMode": false,
+          "sharingState": {
+            "camera": false,
+            "microphone": false
+          },
+          "successorTabId": -1,
+          "cookieStoreId": "firefox-default",
+          "url": "https://pixabay.com/sound-effects/space-line-27593/",
+          "title": "space_line | Royalty-free Music - Pixabay",
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAY1BMVEVMqEz///9Lp0tJp0lhsmHr9Ov9/v1Pqk/4/PjL5stRq1FsuGzn8+fc7tyDwoNVrVWJxYnz+vOs16zk8eS33Ldbr1yQyZCk06SXzZfS6tLE48S837x0u3RmtGbO5857v3vu9u5K4OOPAAABP0lEQVR4nN2Sy5KEIAxFCUFEVBQRH+2r//8rh4A6XVNdvZrZzN0kmIO5BNh/E+dnSJGSMyMhb7zXyJkWQuSx3lxZXJXd7Nw+CfRFlk20U/dZ1t3AUAFJ1ge2CrISGQ4KqhDT/sEC2NopgGplPcCjwc2BGs46bhXIZfX+2AHmRtQgp3wJmL7sjgBLMMhRzCBbalJ1Lw1YM8MzLdAo6HkemsjvBoyLCmZ9phnsGoULhu8G8WuRzpNYLLMA7M0bAFcLD9YUIBXI7h7SDcTuE44S6ukJ1lxTIIAhIvejAicOSzWitkQQUHVBfU3eaQxjuIkHnT3aIOCSHXXoUgR/WIZRxktJgCTZwrBWSReHgq2VaVYE1G2QKTWy1ZgyecsPYzb6xW0S48YU4qGD7x9zeK/fAOrn8glguRD+U/3lpf+JvgBgSw9813n/dQAAAABJRU5ErkJggg=="
+        },
+        "380": {
+          "id": 380,
+          "index": 3,
+          "windowId": 704,
+          "highlighted": false,
+          "active": false,
+          "attention": false,
+          "pinned": false,
+          "status": "complete",
+          "hidden": false,
+          "discarded": false,
+          "incognito": false,
+          "width": 1536,
+          "height": 711,
+          "lastAccessed": 1708044435044,
+          "audible": false,
+          "autoDiscardable": true,
+          "mutedInfo": {
+            "muted": false
+          },
+          "isArticle": false,
+          "isInReaderMode": false,
+          "sharingState": {
+            "camera": false,
+            "microphone": false
+          },
+          "successorTabId": -1,
+          "cookieStoreId": "firefox-default",
+          "url": "https://pixabay.com/sound-effects/atmos-mountains-d-cinematic-trailer-sound-effects-123874/",
+          "title": "ATMOS Mountains (D) | Cinematic Trailer Sound Effects | Royalty-free Music - Pixabay",
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAY1BMVEVMqEz///9Lp0tJp0lhsmHr9Ov9/v1Pqk/4/PjL5stRq1FsuGzn8+fc7tyDwoNVrVWJxYnz+vOs16zk8eS33Ldbr1yQyZCk06SXzZfS6tLE48S837x0u3RmtGbO5857v3vu9u5K4OOPAAABP0lEQVR4nN2Sy5KEIAxFCUFEVBQRH+2r//8rh4A6XVNdvZrZzN0kmIO5BNh/E+dnSJGSMyMhb7zXyJkWQuSx3lxZXJXd7Nw+CfRFlk20U/dZ1t3AUAFJ1ge2CrISGQ4KqhDT/sEC2NopgGplPcCjwc2BGs46bhXIZfX+2AHmRtQgp3wJmL7sjgBLMMhRzCBbalJ1Lw1YM8MzLdAo6HkemsjvBoyLCmZ9phnsGoULhu8G8WuRzpNYLLMA7M0bAFcLD9YUIBXI7h7SDcTuE44S6ukJ1lxTIIAhIvejAicOSzWitkQQUHVBfU3eaQxjuIkHnT3aIOCSHXXoUgR/WIZRxktJgCTZwrBWSReHgq2VaVYE1G2QKTWy1ZgyecsPYzb6xW0S48YU4qGD7x9zeK/fAOrn8glguRD+U/3lpf+JvgBgSw9813n/dQAAAABJRU5ErkJggg=="
+        },
+        "381": {
+          "id": 381,
+          "index": 4,
+          "windowId": 704,
+          "highlighted": false,
+          "active": false,
+          "attention": false,
+          "pinned": false,
+          "status": "complete",
+          "hidden": false,
+          "discarded": false,
+          "incognito": false,
+          "width": 1536,
+          "height": 711,
+          "lastAccessed": 1708044457606,
+          "audible": false,
+          "autoDiscardable": true,
+          "mutedInfo": {
+            "muted": false
+          },
+          "isArticle": true,
+          "isInReaderMode": false,
+          "sharingState": {
+            "camera": false,
+            "microphone": false
+          },
+          "successorTabId": -1,
+          "cookieStoreId": "firefox-default",
+          "url": "https://pixabay.com/sound-effects/lower-deck-atmo-119108/",
+          "title": "lower deck Atmo | Royalty-free Music - Pixabay",
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAY1BMVEVMqEz///9Lp0tJp0lhsmHr9Ov9/v1Pqk/4/PjL5stRq1FsuGzn8+fc7tyDwoNVrVWJxYnz+vOs16zk8eS33Ldbr1yQyZCk06SXzZfS6tLE48S837x0u3RmtGbO5857v3vu9u5K4OOPAAABP0lEQVR4nN2Sy5KEIAxFCUFEVBQRH+2r//8rh4A6XVNdvZrZzN0kmIO5BNh/E+dnSJGSMyMhb7zXyJkWQuSx3lxZXJXd7Nw+CfRFlk20U/dZ1t3AUAFJ1ge2CrISGQ4KqhDT/sEC2NopgGplPcCjwc2BGs46bhXIZfX+2AHmRtQgp3wJmL7sjgBLMMhRzCBbalJ1Lw1YM8MzLdAo6HkemsjvBoyLCmZ9phnsGoULhu8G8WuRzpNYLLMA7M0bAFcLD9YUIBXI7h7SDcTuE44S6ukJ1lxTIIAhIvejAicOSzWitkQQUHVBfU3eaQxjuIkHnT3aIOCSHXXoUgR/WIZRxktJgCTZwrBWSReHgq2VaVYE1G2QKTWy1ZgyecsPYzb6xW0S48YU4qGD7x9zeK/fAOrn8glguRD+U/3lpf+JvgBgSw9813n/dQAAAABJRU5ErkJggg=="
+        },
+        "383": {
+          "id": 383,
+          "index": 5,
+          "windowId": 704,
+          "highlighted": false,
+          "active": false,
+          "attention": false,
+          "pinned": false,
+          "status": "complete",
+          "hidden": false,
+          "discarded": false,
+          "incognito": false,
+          "width": 1536,
+          "height": 711,
+          "lastAccessed": 1708044464975,
+          "audible": false,
+          "autoDiscardable": true,
+          "mutedInfo": {
+            "muted": false
+          },
+          "isArticle": false,
+          "isInReaderMode": false,
+          "sharingState": {
+            "camera": false,
+            "microphone": false
+          },
+          "successorTabId": -1,
+          "cookieStoreId": "firefox-default",
+          "url": "https://pixabay.com/sound-effects/soft-tonal-wind-01-70571/",
+          "title": "Soft Tonal Wind_01 | Royalty-free Music - Pixabay",
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAY1BMVEVMqEz///9Lp0tJp0lhsmHr9Ov9/v1Pqk/4/PjL5stRq1FsuGzn8+fc7tyDwoNVrVWJxYnz+vOs16zk8eS33Ldbr1yQyZCk06SXzZfS6tLE48S837x0u3RmtGbO5857v3vu9u5K4OOPAAABP0lEQVR4nN2Sy5KEIAxFCUFEVBQRH+2r//8rh4A6XVNdvZrZzN0kmIO5BNh/E+dnSJGSMyMhb7zXyJkWQuSx3lxZXJXd7Nw+CfRFlk20U/dZ1t3AUAFJ1ge2CrISGQ4KqhDT/sEC2NopgGplPcCjwc2BGs46bhXIZfX+2AHmRtQgp3wJmL7sjgBLMMhRzCBbalJ1Lw1YM8MzLdAo6HkemsjvBoyLCmZ9phnsGoULhu8G8WuRzpNYLLMA7M0bAFcLD9YUIBXI7h7SDcTuE44S6ukJ1lxTIIAhIvejAicOSzWitkQQUHVBfU3eaQxjuIkHnT3aIOCSHXXoUgR/WIZRxktJgCTZwrBWSReHgq2VaVYE1G2QKTWy1ZgyecsPYzb6xW0S48YU4qGD7x9zeK/fAOrn8glguRD+U/3lpf+JvgBgSw9813n/dQAAAABJRU5ErkJggg=="
+        },
+        "384": {
+          "id": 384,
+          "index": 6,
+          "windowId": 704,
+          "highlighted": false,
+          "active": false,
+          "attention": false,
+          "pinned": false,
+          "status": "complete",
+          "hidden": false,
+          "discarded": false,
+          "incognito": false,
+          "width": 1536,
+          "height": 711,
+          "lastAccessed": 1708044638302,
+          "audible": false,
+          "autoDiscardable": true,
+          "mutedInfo": {
+            "muted": false
+          },
+          "isArticle": false,
+          "isInReaderMode": false,
+          "sharingState": {
+            "camera": false,
+            "microphone": false
+          },
+          "successorTabId": -1,
+          "cookieStoreId": "firefox-default",
+          "url": "https://pixabay.com/sound-effects/tech-background-51278/",
+          "title": "Tech Background | Royalty-free Music - Pixabay",
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAY1BMVEVMqEz///9Lp0tJp0lhsmHr9Ov9/v1Pqk/4/PjL5stRq1FsuGzn8+fc7tyDwoNVrVWJxYnz+vOs16zk8eS33Ldbr1yQyZCk06SXzZfS6tLE48S837x0u3RmtGbO5857v3vu9u5K4OOPAAABP0lEQVR4nN2Sy5KEIAxFCUFEVBQRH+2r//8rh4A6XVNdvZrZzN0kmIO5BNh/E+dnSJGSMyMhb7zXyJkWQuSx3lxZXJXd7Nw+CfRFlk20U/dZ1t3AUAFJ1ge2CrISGQ4KqhDT/sEC2NopgGplPcCjwc2BGs46bhXIZfX+2AHmRtQgp3wJmL7sjgBLMMhRzCBbalJ1Lw1YM8MzLdAo6HkemsjvBoyLCmZ9phnsGoULhu8G8WuRzpNYLLMA7M0bAFcLD9YUIBXI7h7SDcTuE44S6ukJ1lxTIIAhIvejAicOSzWitkQQUHVBfU3eaQxjuIkHnT3aIOCSHXXoUgR/WIZRxktJgCTZwrBWSReHgq2VaVYE1G2QKTWy1ZgyecsPYzb6xW0S48YU4qGD7x9zeK/fAOrn8glguRD+U/3lpf+JvgBgSw9813n/dQAAAABJRU5ErkJggg=="
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "704": {
+        "id": 704,
+        "focused": true,
+        "top": -7,
+        "left": -7,
+        "width": 1550,
+        "height": 838,
+        "incognito": false,
+        "type": "normal",
+        "state": "maximized",
+        "alwaysOnTop": false,
+        "title": "Freesound - Sci-Fi Soundscape / Drone / Pad - Harmonic - 008 - I - Designed Atmospheres by GregorQuendel — Mozilla Firefox"
+      }
+    },
+    "tabsNumber": 12,
+    "name": "Ambience SFX",
+    "date": 1708045036205,
+    "lastEditedTime": 1708045045303,
+    "tag": [],
+    "sessionStartTime": 1707952457433,
+    "id": "35c74eed-6d44-4e04-a6ab-e6707c9d779a"
+  }
+]

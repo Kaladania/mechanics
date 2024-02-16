@@ -2,4 +2,32 @@ As response to feedback
 
 - Fixed game breaking grenade bug by changing blast radius collission to ignore everything except the player, enemies and crystals (instead of doing manual checks)
 - Increased crystal consumption to reduce increase the difficulty of managing the reasource
-- Increased the auto projectile size and damage dealt in order to make it easier to use
+- Increased the auto projectile size and damage dealt in order to make it easier to usea
+
+
+Added sound effects to increase game juicyness
+- tried to find effects that sounded high pitched enough to feel like it came from a sci-fi weapon, but 'ground'/flat enough to feel powerful/like it was shot with a real gun
+	- fits the aesthetic of the level: a sci-fi world grounded by the remnants of a 'real world' dystopia
+
+
+Got lecturer feedback on my broken fireball
+- learnt that the reason the enemy was not homing is because the timeline was competing with the projectile component for movement priority - causing the enemy to stay in place
+	- Deactivating the component to let the timeline play, then reactivating it once the player was spotted allowed it to work
+- However, learnt of a flaw in enemy in that currently the projectile can only go down, not up
+	- means if the player is too far away, the fireball will end up underneath the player
+		- not a huge concern considering this is supposed to be an explosive enemy so damage will be done via a blast radius
+		- however could be annoying if the player was being continously targeted/ambushed by enemies they have not encountered yet
+			- therefore opted to drastically reduce the attack radius to ensure that the player fully notices the fireball before they are attack
+
+	- Thinking about balancing made me realise that this enemy would be hard to fend off with a gun
+		- while I intend to set it so that the enemy explodes on contact with projectiles, players may find it more enjoyable to defend against explosions with shields
+
+	- would also give more priority to the shield developement as having a shield was suggested by some play testers due to the enslaught of enemies
+		- would also make the boss fight more enjoyable as bullet hells/bosses are not as fun to deal with when you have no option for defense/invisibility frames
+
+	- Decided to use shield developement to slightly rework alt system
+		- while play testers enjoyed the crystal management, they did not make much use of the alt weapon due to how similar it was to the main weapon
+			- I don't want alt weapons to drastically differ from the main weapon as it would defeat the purpose of calling them 'alts'
+				- would also introudce more work to do for balancing and bug testing, work that I do not feel I have enough time left to do adequatly
+			- Therefore decided to have right shift spawn a shield instead of a weapon-dependant alt
+				- thinking about reworking the key command for the shield as a play tester felt that the right-shift combination was a bit cumbersome and unusual to use
