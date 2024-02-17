@@ -1,0 +1,33 @@
+Spent this session working on incorporating feedback to improve level
+
+Created a neon sign for an immersive way to point players in the right direction
+- used the saem logic as the flickering mine lights to help give it the 'decaying' aesthetic while also ensuring that it catches the player's attention
+- Since there would be multiple flashing lights on one sign, originally used an array to store the light settings for each arrow
+	- ran into a problem where the delay function was causing only the last arrow in the array to flicker
+		- this is because the delay function ends the loop if the delay is not finished and moves on to the next iteration
+			- the delay is reset every time that iteration is run leading to the delay never finished
+
+	- further investagation into potential solutions lead me to find out about the child actor component
+		- this would solve my problem as it would allow you to include an actor (with its own functionality) into the blueprint
+			- esseentially turns the blueprint into a group of related actors
+	- knowing this, updated the mine flickering blueprint to turn it into a parent class
+		- an 'indexToChange' and 'OnMaterial' variable was introduced to allow flexibility between child meshes
+	- created a neon arrow child and added it to the neon arrow blueprint to create an entire actor consiting of a parent spine and 4 arrow child actors
+		- having child actors would allow me to set each actors parameters via the editor rather than having to manually code it
+		- downside is that there is not a way to change this via the level viewport
+			- means that to have unqiue neon sign actors, would need to duplicate and manually alter blueprint
+			- was not a huge problem as neon signs won't be placed near each other so it is unlikely the player will notice the duplicated actor
+				- plus the randomly generated flicker ensures that the arrows pattersn won't be the same
+
+- placed these signs in areas where the play testers got lost
+	- gate entraces to the lava
+	- stairs leading up to dam
+	- stairs leading up to elevator
+
+
+Finished the fireball code
+- added a blast radius (similar to grenade)
+- added particle explosion and sound effects
+- As a bonus, made the fireball 'highly explosive' so even shooting at it will cause it to explode
+	- plan to use the fireball to encourage the player to make use of their shield
+		- gets them used to the functionality before the boss
