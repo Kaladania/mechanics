@@ -1,0 +1,28 @@
+Skipper play test feedback
+
+Scroll wheel for toggle
+Cross hair for mouse location
+Turn it into a segmented battery
+Red outline on enemy to help differentiate them
+	- a bit too hard to see them currently
+	- damage direction indicator since some enemies shoot you from offscreen
+
+pressure plates to open gates
+	- have glowing wire to show gate activation status
+	- use the speaker to show gate activation status
+
+	- have pressure plates on both sides to be pressed to open the gate
+
+
+have walls to prevent the player from leaving the top floor
+
+
+girder route in lava had holes and makes it seems like player could fall through
+- replace with beam
+
+have cannon and grenade weapons as unlockables
+- could have a chiming sound to indicate chest location
+
+Arrow leaning on the pipe
+
+Add tourch/headlights to illuminate area infront of player

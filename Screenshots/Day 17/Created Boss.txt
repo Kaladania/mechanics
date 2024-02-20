@@ -1,0 +1,46 @@
+Created Boss
+
+Wanted to have it jump down and shake the ground, intimedating the player
+- Had it placed on a floating platform I plan to delete when the player enters
+- Used a trigger volume to delete the platform when the player enter the room
+	- causes boss to emerge from the sky
+	- also added a node to destroy the trigger aswell to prevent the trigger from contrinously going off (as it is no longer needed)
+
+Had problems getting the turret to face the player when shooting
+- turrets were inverting and the back was facing the player's direction to shot
+	- realised that warping the shapes to make the boss shape lead to the pivot being repositined in an unintended way
+	- made an empty static mesh and positioned it as a new pivot while parenting the turret to each respective pivote
+
+- the player going behind the enemy caused the turrets to clip into the mesh to shoot the player
+	- aimed to fix this by clamping the rotation
+	- worked but lead to the weapon being pinned to the enemy's back when the rotation exceeded the claim
+	- realised this wouldn't be a major issue as the enemy would be rotating to face/move towards the player
+		- as result, clamp was removed because it proved unnessicary
+
+
+Had some problems getting the pose to move towards the player
+- realised that it was because the altitude mean that there was no navigation in the boss room (so AI didn't know where to go)
+	- fixed this by adding a nav mesh volume to the boss room
+	- realised that the player could just hide from the boss by staying in the corridor
+		- plan to fix this by having rubble fall and block the player's exit
+			- would also help to emphasise the power of the enemy
+
+Added collission to the legs in order to make the enemy easier to hit (as only the core could be hit atm and that was hard to do while constantly moving
+
+Created a health box for the boss that appears at the top of the screen
+- set the box to stretch to the walls of the viewport in order to make it easier to read, more daunting/immersive and more visually appealing
+- Obly wanted the bar to appear durting the boss fight, so set the visibility to hidden and make the box visible during the 'animation' state
+
+
+Boss hangs out on a floating platform until the player has entered the boss fight
+- since boss is spawned in the moment the game plays, decided to disable tick to prevent the boss from hogging memory despite it not yet being used
+- when the player crosses the boss trigger, along with destroying the platform so the boss can fall, trigger now activates boss tick to allow it to become 'animated'
+
+
+Next Up
+- Add beam attack
+- Add Shield
+- Add Lava Floor
+
+
+Grenade Current destroys enemy on hit
