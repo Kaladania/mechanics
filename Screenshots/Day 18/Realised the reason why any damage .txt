@@ -1,0 +1,18 @@
+Realised the reason why any damage wasn't returning an actor was because I wasn't passing an actor into the node
+
+Found that automatic weapon could be used to cheese the boss fight due to the constant firing
+- decided to add a cooldown timer that would limit the rate of constant fire
+- admitting is intentially nerfing the weapon to deter people from using it during boss fight
+	- in future would like to look at another way of incorporating this
+
+
+Ran into a problem of not being able to set a timer due to the way weapons are assigned to the player
+- weapons being destroyed and respawned meant that data could not be carried over
+	- meant that ammo count would reset every time the weapon changed
+- Considering the player was already storing the ammo values, decided to move the nodes incrimenting and deincrimenting the count to the player aswell
+	- meant that the ammo count would only reset on player death (which is intended)
+
+Was also a problem where could not assign timer event to UI as the weapon would not be constantly existing in the scene for the UI to reference
+- attempted to solve this by creating a dummy actor and hiding it in the level
+	- blueprint got confused and would switch between referencing the dummy weapon and the autual weapon
+		- lead to a bug where sometimes the base weapon parent 'my tank' player reference would have to be used. Other times a local player reference would have to be used

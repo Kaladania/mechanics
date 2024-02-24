@@ -20,3 +20,8 @@ For enviromental theme added embers
 Added damage to the flowing lava
 - created an empty blueprint and gave it a collission box
 - for optimization, set it to ignore everything except the player
+
+
+Need to work on a reseter
+- player references need to be reset as the player actor is despawned and respawned (check energy levels for error)
+- states need to be reset to default

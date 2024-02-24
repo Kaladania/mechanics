@@ -1,0 +1,24 @@
+Added shield
+- Decided to go with the polygon shield as - while like the designs of the circular shields - felt that they were a bit too much and would make it hard to see the object underneath the shield (as both the boss and player would use the same shield design
+- Also felt that the blocky shape fit better with the low poly aesthetic than the smooth curves
+- Also felt that since the mesh is the same as the crystal, it would help emphasise the crystal's influence and draw a parrallel
+	- to further the 'crytal' theme, replaced the hexagon fade with a marble texture that would give a grittier shine that gave the impression that there were alot of reflections comming of the shield (like a real crystal)
+
+- Used events to signal when the shift - right click combo was pressed and the shield should be spawned
+- struggled to get the event to run more than was
+	- realised it was because the event wasn't binding properly to the custom event
+- struggled to find a way to successfully bind as it required a reference to the base weapon class but at the time the binding was called, the player had not yet spawned there weapon
+	- realisation came from break nodes revealing that for some reason the shield was spawning (and running event begin play) before the player (leading to the null references)
+	- fixed this by using another event to signal to the shield when the player has finished setting up and telling it it is time to setup the paremeters for the shield
+
+Also had problems activating and deactiving shield
+- comming from unity, assumed thered be some kind of checkbox to state wheither an object is currently active and being updated/recieving ticks and collissions
+- tried 'visible' and 'hidden in game' nodes but realised that these only affected the visibility of the shield in the editor and ingame respectively
+- tried setting 'is active' but it seemed to not disable collission
+- in the ended decdied to create a custom event and call it to toggle the visibility and collission settings of the shield when it is spawned/destroyed
+
+
+Also implimented some of the player feedback by enabling showing the cursor and changing it's default design to a crosshair
+- in the future, I would like to impliment a custom version of the crosshair cursor.
+	- however due to time contrainsts when with the generic built in version for now
+
